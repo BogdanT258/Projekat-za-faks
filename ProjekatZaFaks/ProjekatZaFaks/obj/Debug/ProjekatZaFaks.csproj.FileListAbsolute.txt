@@ -1,0 +1,12 @@
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\bin\Debug\ProjekatZaFaks.exe
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\bin\Debug\ProjekatZaFaks.exe.config
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.csprojAssemblyReference.cache
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.Employee.resources
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.InputForm.resources
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.Form2.resources
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.Properties.Resources.resources
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.csproj.GenerateResource.cache
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.csproj.CoreCompileInputs.cache
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.exe
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\obj\Debug\ProjekatZaFaks.pdb
+C:\Users\Bogisa\source\repos\ProjekatZaFaks\ProjekatZaFaks\bin\Debug\ProjekatZaFaks.pdb
